@@ -1,0 +1,7 @@
+This is a website I am currently creating for an online reptile store front.
+It has been my introduction to HTML, Javascript, and CSS. It is intended to
+include online transaction capabilities for both livestock and hardware.
+
+This site will be backed by an SQL database that coordinates purchases and
+product deliveries. This database will also keep the site regularly up to
+date with inventory amounts and pricing.
