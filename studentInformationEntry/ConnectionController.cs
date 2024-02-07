@@ -24,7 +24,7 @@ namespace studentInformationEntry
                 command.Connection.Open();
                 command.ExecuteNonQuery();
             }
-        }
+        }  // Ending bracket of method NonQuery
 
         public static int GetLastID(string statement)
         {
